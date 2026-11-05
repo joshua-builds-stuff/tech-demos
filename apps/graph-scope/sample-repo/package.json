@@ -1,0 +1,6 @@
+{
+  "name": "harbor",
+  "private": true,
+  "type": "module",
+  "description": "Tiny static-site builder used as the bundled graph-scope sample."
+}
